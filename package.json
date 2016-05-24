@@ -1,0 +1,11 @@
+{
+  "name": "html boilerplate",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-contrib-uglify": "latest",
+	"grunt-contrib-concat": "latest",
+	"grunt-contrib-compass": "latest",
+	"grunt-contrib-watch": "latest"
+  }
+}
